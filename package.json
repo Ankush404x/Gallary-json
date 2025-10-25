@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@vercel/og": "^0.7.6",
     "clsx": "^1.2.1",
     "framer-motion": "^10.16.4",
     "next": "13.5.6",
