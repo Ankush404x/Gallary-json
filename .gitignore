@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+
+# Production builds
+/.next
+/out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+*.log
+
+# Environment variables
+.env*
+
+# OS files
+.DS_Store
+Thumbs.db
